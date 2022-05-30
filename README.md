@@ -1,6 +1,6 @@
 # SISTEMAS INTELIGENTES
 
-# Alunos: Armando Erick,Iago Oliveira Guedes, Warley Coutinho.
+# Alunos: Armando Erick, Iago Oliveira Guedes, Warley Coutinho.
 
 Encontrar uma base de dados adequada para aplicação de algoritmos de classificação e desenvolver o código para a aplicação.
 
